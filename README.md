@@ -1,6 +1,6 @@
 # Python Calculator
 
-This is my first Python project.
+My first Python project.
 
 ## Features
 - Addition
@@ -11,5 +11,8 @@ This is my first Python project.
 ## Author
 Mohamed Aar
 
-## Goal
-Learning Python programming and building projects for my Computer Science journey.
+## GitHub
+Aarka8888
+
+## Learning Journey
+Computer Science Student at University of the People
